@@ -51,7 +51,7 @@ spec:
     spec:
       containers:
       - name: cowweb
-        image: hhayakaw/cowweb:v1.0
+        image: hhayakaw/cowweb:v1.0-release-b37a925d412b5b6af212e48a3eb1554ad7ca9a20
         ports:
         - name: api
           containerPort: 8080
